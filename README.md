@@ -11,7 +11,7 @@ Soy [Tu Nombre], un apasionado de la tecnología y el desarrollo de software. Co
 
 ## Proyectos Destacados
 
-- 🌐 [IMDB](https://github.com/unaiccz/imdb): Breve descripción del proyecto y tu contribución a él.
+- 🌐 [IMDB](https://github.com/unaiccz/imdb): Un clon de imdb desarrollado con nextjs y tailwindcss h.
 
 ## Aprendiendo Actualmente
 
