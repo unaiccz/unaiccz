@@ -23,7 +23,7 @@ Estoy actualmente enfocado en aprender [Java]. Si tienes alguna recomendación o
 - Numero telefono: +34 643321774
 
 ## Estadísticas de GitHub
-###Wakatime 
+### Wakatime 
 -------------------------------
 <figure><embed src="https://wakatime.com/share/@ba322640-b460-4b3d-a254-087f417201cb/616cd479-e658-4f49-b968-14f69cd7e24b.svg"></embed></figure>
 
