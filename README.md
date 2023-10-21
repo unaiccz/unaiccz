@@ -25,7 +25,7 @@ Estoy actualmente enfocado en aprender [Java]. Si tienes alguna recomendación o
 ## Estadísticas de GitHub
 ### Wakatime 
 -------------------------------
-.. image:: https://wakatime.com/share/@ba322640-b460-4b3d-a254-087f417201cb/fe75e1be-c781-4d7c-a4cc-4630c5dc509a.png
+image:: https://wakatime.com/share/@ba322640-b460-4b3d-a254-087f417201cb/fe75e1be-c781-4d7c-a4cc-4630c5dc509a.png
     :target: https://wakatime.com/
 
 <img src="https://myreadme.vercel.app/api/embed/unaiccz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
