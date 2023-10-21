@@ -23,6 +23,9 @@ Estoy actualmente enfocado en aprender [Java]. Si tienes alguna recomendación o
 - Numero telefono: +34 643321774
 
 ## Estadísticas de GitHub
+###Wakatime 
+-------------------------------
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=unaiccz&api_key=waka_a6e155a1-8480-4ebc-89bf-bf1f65252579)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://myreadme.vercel.app/api/embed/unaiccz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=unaiccz&theme=tokyonight" alt="mystreak"/>
