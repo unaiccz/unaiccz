@@ -1,6 +1,6 @@
-# Bienvenido a [Unaiccz] 👋
+# Bienvenido a Unaiccz 👋
 
-Soy [Tu Nombre], un apasionado de la tecnología y el desarrollo de software. Con experiencia en [React y Django], estoy constantemente explorando nuevas tecnologías y aprendiendo nuevas habilidades para mejorar mis capacidades como desarrollador.
+Soy Unai Calderon, un apasionado de la tecnología y el desarrollo de software. Con experiencia en [React y Django], estoy constantemente explorando nuevas tecnologías y aprendiendo nuevas habilidades para mejorar mis capacidades como desarrollador.
 
 ## Habilidades
 
