@@ -12,9 +12,11 @@ Soy Unai Calderon, un apasionado de la tecnología y el desarrollo de software. 
 
 ### Desarrollo de Software
 - Python
+- -React Native
 
 ### Herramientas y Entornos
 - Linux
+- Vscode
 
 ## Proyectos Destacados
 
