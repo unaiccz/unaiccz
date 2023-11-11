@@ -1,41 +1,36 @@
-# Bienvenido a Unaiccz 👋
+# Perfil de Unai Calderon - Desarrollador de Software y Tecnólogo 👋
 
 Soy Unai Calderon, un apasionado de la tecnología y el desarrollo de software. Con experiencia en **React y Django**, estoy constantemente explorando nuevas tecnologías y aprendiendo nuevas habilidades para mejorar mis capacidades como desarrollador.
 
 ## Habilidades
 
-### Desarrollo Web
-- HTML
-- CSS
-- JavaScript
-- React
+- Desarrollo Web:
+  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [React](https://reactjs.org/)
 
-### Desarrollo de Software
-- Python
-- React Native
+- Desarrollo de Software:
+  - [Python](https://www.python.org/)
+  - [React Native](https://reactnative.dev/)
 
-### Herramientas y Entornos
-- Linux
-- Vscode
+## Proyecto Destacado
 
-## Proyectos Destacados
-
-- 🌐 [IMDB](https://github.com/unaiccz/idmb): Un clon de imdb desarrollado con Next.js y Tailwind CSS. Utiliza React para la interfaz de usuario y una API de Python para obtener los datos de las películas.
+- 🌐 [IMDB Clone](https://github.com/unaiccz/idmb): Un clon de IMDb desarrollado con Next.js y Tailwind CSS. Utiliza React para la interfaz de usuario y una API de Python para obtener los datos de las películas.
 
 ## Aprendiendo Actualmente
 
-Estoy actualmente enfocado en aprender [Java]. Si tienes alguna recomendación o consejo, ¡estaré encantado de escucharlo!
+Estoy enfocado en aprender [Java](https://www.java.com/). Si tienes alguna recomendación o consejo, ¡estaré encantado de escucharlo!
 
 ## Contacto
 
-- Correo Electrónico: [unaicc2003@gmail.com]
-- Numero telefono: +34 643321774
+- Correo Electrónico: [unaicc2003@gmail.com](mailto:unaicc2003@gmail.com)
+- Número de Teléfono: +34 643 321 774
 
 ## Estadísticas de GitHub
 
-### Otros
-- Estadísticas de GitHub: [![GitHub stats](https://github-readme-stats.vercel.app/api?username=unaiccz&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-- Lenguajes más utilizados: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unaiccz&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-- Racha de contribuciones: [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unaiccz&theme=tokyonight)](https://git.io/streak-stats)
+- [Estadísticas de GitHub](https://github.com/anuraghazra/github-readme-stats)
+- [Lenguajes más utilizados](https://github.com/anuraghazra/github-readme-stats)
+- [Racha de Contribuciones](https://git.io/streak-stats)
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. No dudes en ponerte en contacto si tienes alguna pregunta o sugerencia.
