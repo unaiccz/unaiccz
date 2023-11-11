@@ -12,7 +12,7 @@ Soy Unai Calderon, un apasionado de la tecnología y el desarrollo de software. 
 
 ### Desarrollo de Software
 - Python
-- -React Native
+- React Native
 
 ### Herramientas y Entornos
 - Linux
@@ -32,9 +32,6 @@ Estoy actualmente enfocado en aprender [Java]. Si tienes alguna recomendación o
 - Numero telefono: +34 643321774
 
 ## Estadísticas de GitHub
-
-### Wakatime 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=unaiccz&api_key=waka_133d67d5-d34d-4062-8519-b6a88ea8fe86)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Otros
 - Estadísticas de GitHub: [![GitHub stats](https://github-readme-stats.vercel.app/api?username=unaiccz&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
