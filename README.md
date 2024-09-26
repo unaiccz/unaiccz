@@ -1,6 +1,6 @@
 # Perfil de Unai Calderon - Desarrollador de Software 👋
 
-Soy Unai Calderon, un apasionado de la tecnología y el desarrollo de software. Con experiencia en **React y Django**, estoy constantemente explorando nuevas tecnologías y aprendiendo nuevas habilidades para mejorar mis capacidades como desarrollador.
+Soy Unai Calderon, un apasionado de la tecnología y el desarrollo de software. Con experiencia en **React y NodeJS**, estoy constantemente explorando nuevas tecnologías y aprendiendo nuevas habilidades para mejorar mis capacidades como desarrollador.
 
 ## Habilidades
 
