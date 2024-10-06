@@ -21,7 +21,7 @@ Soy Unai Calderon, un apasionado de la tecnología y el desarrollo de software. 
 
 ## Aprendiendo Actualmente
 
--Estoy enfocado en aprender [Java](https://www.java.com/). Si tienes alguna recomendación o consejo, ¡estaré encantado de escucharlo!-
+- Aprendiendo [kubernetes](https://kubernetes.io/es/)
 
 ## Contacto
 
