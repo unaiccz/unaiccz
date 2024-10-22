@@ -29,8 +29,7 @@ Soy Unai Calderon, un apasionado de la tecnología y el desarrollo de software. 
 - Número de Teléfono: +34 643 321 774
 
 ## Estadísticas de GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=unaiccz)
-![Wakatime stats](https://wakatime.com/api/v1/usage/2024-10-16/summary.svg)
+<figure><embed src="https://wakatime.com/share/@ba322640-b460-4b3d-a254-087f417201cb/d08fa22c-7626-4036-b6bb-c4f31cddee4e.svg"></embed></figure>
 
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. No dudes en ponerte en contacto si tienes alguna pregunta o sugerencia.
