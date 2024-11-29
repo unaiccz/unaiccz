@@ -12,7 +12,7 @@ Soy Unai Calderon, un apasionado de la tecnología y el desarrollo de software. 
 
 - Desarrollo de Software:
   - [Python](https://www.python.org/)
-  - [React Native](https://reactnative.dev/)
+  - --[React Native](https://reactnative.dev/)--
 
 ## Proyecto Destacado
 
