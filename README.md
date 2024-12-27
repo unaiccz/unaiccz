@@ -30,7 +30,9 @@ Soy Unai Calderon, un apasionado de la tecnología y el desarrollo de software. 
 
 - **Grado Medio en SMR (Sistemas Microinformáticos y Redes)** - 2021-2023
 ## Estadísticas de GitHub
-<figure><embed src="https://wakatime.com/share/@ba322640-b460-4b3d-a254-087f417201cb/d08fa22c-7626-4036-b6bb-c4f31cddee4e.svg"></embed></figure>
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=unaiccz&show_icons=true&theme=radical)
 
 
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=unaiccz&layout=compact&theme=radical)
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. No dudes en ponerte en contacto si tienes alguna pregunta o sugerencia.
