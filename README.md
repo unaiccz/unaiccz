@@ -1,7 +1,7 @@
 # Perfil de Unai Calderon - Desarrollador de Software 👋
 
 Soy Unai Calderon, un apasionado de la tecnología y el desarrollo de software. Con experiencia en **React y NodeJS**, estoy constantemente explorando nuevas tecnologías y aprendiendo nuevas habilidades para mejorar mis capacidades como desarrollador.
-
+<a href="https://wakatime.com/badge/github/unaiccz/Proyecto-ec-diw"><img src="https://wakatime.com/badge/github/unaiccz/Proyecto-ec-diw.svg" alt="wakatime"></a>
 ## Habilidades
 
 - Desarrollo Web:
