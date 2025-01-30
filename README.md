@@ -4,6 +4,8 @@ Soy Unai Calderon, un apasionado de la tecnología y el desarrollo de software. 
 
 
 <br><a href="https://wakatime.com/badge/github/unaiccz/Proyecto-ec-diw"><img src="https://wakatime.com/badge/github/unaiccz/Proyecto-ec-diw.svg" alt="wakatime"></a>
+
+<br> <a href="https://wakatime.com/badge/github/unaiccz/Clase_react_Blue_Edition"><img src="https://wakatime.com/badge/github/unaiccz/Clase_react_Blue_Edition.svg" alt="wakatime"></a>
 ## Habilidades
 
 - Desarrollo Web:
