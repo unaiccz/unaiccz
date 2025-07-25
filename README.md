@@ -124,7 +124,7 @@ Plataforma de gestión educativa para profesores con funcionalidades de tareas, 
 ## 🎓 Formación
 
 **🎯 Grado Superior en DAW** (Desarrollo de Aplicaciones Web)  
-*2023 - 2025*
+*IES Río Arba de Tauste | 2023 - 2025*
 
 **📚 Grado Medio en SMR** (Sistemas Microinformáticos y Redes)  
 *2021 - 2023*
