@@ -127,7 +127,7 @@ Plataforma de gestión educativa para profesores con funcionalidades de tareas, 
 *IES Río Arba de Tauste | 2023 - 2025*
 
 **📚 Grado Medio en SMR** (Sistemas Microinformáticos y Redes)  
-*2021 - 2023*
+*IES Río Arba de Tauste | 2021 - 2023*
 
 ---
 
